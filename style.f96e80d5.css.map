@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,YACE,kBACF,CAEA,gDACE,kBACF","file":"style.f96e80d5.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\r\n.form_block {\r\n  margin-bottom: 20px;\r\n}\r\n\r\nfieldset div:not(:first-child):not(:last-child) {\r\n  margin-bottom: 10px;\r\n}\r\n"]}

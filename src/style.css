@@ -1,8 +1,8 @@
 /* styles go here */
 .form_block {
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
-fieldset div:not(:first-child):not(:last-child) {
-  margin-bottom: 10px;
+.block_info {
+  margin-top: 10px;
 }
